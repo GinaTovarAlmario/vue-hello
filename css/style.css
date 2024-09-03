@@ -5,4 +5,16 @@
 }
 h1 {
     text-align: center;
+    font-size: 4rem;
+    color:purple;
+    margin : 50px auto;
+}
+img{
+    width: 100%;
+}
+#image{
+    margin: 0 auto;
+    height: 300px;
+    width: 500px;
+    margin-bottom: 80px;
 }

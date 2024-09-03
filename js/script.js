@@ -18,7 +18,8 @@ window.addEventListener("load", (event) => {
   createApp({
     data(){
         return {
-            message : 'Hello Vue!'
+            message : 'Hello Vue!',
+            imageUrl: 'https://media.istockphoto.com/id/1292967541/it/foto/fioriere-da-balcone-lussureggianti-lungo-la-strada-che-guardano-verso-la-piazza-della-citt%C3%A0.jpg?s=612x612&w=0&k=20&c=sy9-weNYGfAMSpNrrHkpBFRpSEwWEP7wFVY_kFn7vUA=',
         }
     }
   }).mount('#app')
